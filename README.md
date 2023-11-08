@@ -20,7 +20,7 @@
 
 
 🔧 Tech Stack:
-💻 JavaScript | React Native | Redux | RESTful APIs | Firebase | Expo | Git
+💻 JavaScript | React Native | Redux | RESTful APIs | Firebase | Codepush| Expo | Git
 
 
 
