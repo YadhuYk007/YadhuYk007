@@ -6,7 +6,7 @@
 
 
 
-📱 Mobile App Developer with 4 years of hands-on experience crafting stunning, high-performance cross-platform applications using React Native. 🚀
+📱 Mobile App Developer with 5 years of hands-on experience crafting stunning, high-performance cross-platform applications using React Native. 🚀
 
 
 
